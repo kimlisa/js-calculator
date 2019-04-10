@@ -1,5 +1,8 @@
 # js-calculator
 
+## Live Demo:
+https://js-calc-2017.surge.sh/
+
 ## Note:
 Beginner practice project finished in September, 2017. Transferred from codepen.io
 
