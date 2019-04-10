@@ -1,6 +1,6 @@
 # js-calculator
 
-## Live Demo:
+## Working Demo:
 https://js-calc-2017.surge.sh/
 
 ## Note:
