@@ -1,0 +1,163 @@
+html {
+    font: 100%/1.2 'Montserrat', sans-serif;
+    background-color: #222329;
+    color: #fff;
+    font-weight: 100;
+}
+
+.container {
+    width: 251.4px;
+    margin: 0 auto;
+    box-shadow: 3px 3px 2px #1E1E1E;
+    border-radius: 15px;
+}
+
+.top-screen {
+    margin-top: 30px;
+    background-color: #18191D;
+    border-bottom: 1px solid #D1A61C;
+    height: 82px;
+    -webkit-border-radius: 15px 15px 0 0; /* Safari, Chrome */
+    -moz-border-radius: 15px 15px 0 0; /* FireFox */
+    border-radius: 15px 15px 0 0;
+    text-align: right;
+    padding-top: 28px;
+}
+
+#upper-screen {
+    width: 200px;
+    height: 15px;
+    margin: 0 auto;
+    font-size: 60%;
+    font-style: italic;
+    color: #BFC2CA;
+}
+
+#main-screen {
+    width: 200px;
+    height: 40px;
+    margin: 0 auto;
+    font-size: 230%;
+}
+
+.row {
+    background-color: #1C2023;
+    cursor: pointer;
+}
+
+.button {
+    display:inline-block;
+    border: 1px solid #1C2023;
+    width: 60.8px;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.five  {
+    border-radius: 0 0 15px 15px;
+}
+
+#zero {
+    border-radius: 0 0 0 15px;
+}
+
+#equal {
+    width: 123.8px;
+    background-color: #D1A61C;
+    border-radius: 0 0 15px 0;
+}
+
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 60%;
+    color: #8C8D91;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #B6B6BE;
+}
+
+a:hover {
+    color: #D1A61C;
+}
+
+#clear:active {
+    background-color: #D1A61C;
+}
+
+/*#pos-neg:active {
+	background-color: #D1A61C;
+}
+*/
+/*#percent:active {
+	background-color: #D1A61C;
+}*/
+
+#divide:active {
+    background-color: #D1A61C;
+}
+
+#seven:active {
+    background-color: #D1A61C;
+}
+
+#eight:active {
+    background-color: #D1A61C;
+}
+
+#nine:active {
+    background-color: #D1A61C;
+}
+
+#multiply:active {
+    background-color: #D1A61C;
+}
+
+#four:active {
+    background-color: #D1A61C;
+}
+
+#five:active {
+    background-color: #D1A61C;
+}
+
+#six:active {
+    background-color: #D1A61C;
+}
+
+#minus:active {
+    background-color: #D1A61C;
+}
+
+#one:active {
+    background-color: #D1A61C;
+}
+
+#two:active {
+    background-color: #D1A61C;
+}
+
+#three:active {
+    background-color: #D1A61C;
+}
+
+#plus:active {
+    background-color: #D1A61C;
+}
+
+#zero:active {
+    background-color: #D1A61C;
+}
+
+#decimal:active {
+    background-color: #D1A61C;
+}
+
+#equal:active {
+    background-color: #1C2023;
+}
